@@ -1,6 +1,6 @@
 # telescope-args.nvim
 
-A [telescope](https://github.com/nvim-telescope/telescope.nvim) extension for
+A [Telescope](https://github.com/nvim-telescope/telescope.nvim) extension for
 navigating the argument list. The argument list consists of the files that
 neovim was started with, and can be edited using e.g. `:argadd`, see `:h args`.
 
